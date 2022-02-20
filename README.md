@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2022 Goals: Learn more about Web Programming and Kernel Development
-- ⚡ Fun fact: I love to play games, reading books, 
+- ⚡ Fun fact: I love to play games, reading books, traveling and activities with friends.
 
 ### Connect with me:
 
