@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2022 Goals: Learn more about Web Programming and Kernel Development
-- ⚡ Fun fact: I love to play games, reading books, traveling and activities with friends.
+- ⚡ Fun fact: I love to play games, and activities with friends.
 
 ### Connect with me:
 
@@ -16,6 +16,9 @@
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://instagram.com/onurbuber#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/onurbuber#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/telegram-light.png)](https://instagram.com/onurbuber#gh-light-mode-only)
+[![website](./img/telegram-dark.png)](https://instagram.com/onurbuber#gh-dark-mode-only)
 
 ### Languages and Tools:
 
