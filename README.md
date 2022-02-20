@@ -17,8 +17,8 @@
 [![website](./img/instagram-light.svg)](https://instagram.com/onurbuber#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/onurbuber#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/telegram-dark.png)](https://instagram.com/onurbuber#gh-light-mode-only)
-[![website](./img/telegram-light.png)](https://instagram.com/onurbuber#gh-dark-mode-only)
+[![website](./img/telegram-dark.png)](https://t.me/moonaru#gh-light-mode-only)
+[![website](./img/telegram-light.png)](https://t.me/moonaru#gh-dark-mode-only)
 
 ### Languages and Tools:
 
