@@ -20,8 +20,8 @@
 [![website](./img/telegram-dark.png)](https://t.me/moonaru#gh-light-mode-only)
 [![website](./img/telegram-light.png)](https://t.me/moonaru#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![mailto](./img/mail-dark.png)](mailto:onurbuber@engineer.com#gh-light-mode-only)
-[![mailto](./img/mail-light.png)](mailto:onurbuber@engineer.com#gh-dark-mode-only)
+[![mailto](./img/mailto-dark.png)](mailto:onurbuber@engineer.com#gh-light-mode-only)
+[![mailto](./img/mailto-light.png)](mailto:onurbuber@engineer.com#gh-dark-mode-only)
 
 
 ### Languages and Tools:
