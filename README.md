@@ -35,9 +35,10 @@
 <br />
 <br />
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+### Github Stats:
 
-  <img align="left" alt="Onur'S GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=onurbbr&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+[![Onur'S GitHub Stats](https://github-readme-stats.vercel.app/api?username=onurbbr&langs_count=3&layout=compact&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)](https://github.com/onurbbr/github-readme-stats)
 
-</details>
+### Used Top Languages:
+
+![Onur'S Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=onurbbr&show_icons=true&theme=radical&locale=en&layout=compact)
