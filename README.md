@@ -46,3 +46,15 @@
 ### Used Top Languages:
 
 ![Onur'S Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=onurbbr&show_icons=true&theme=radical&locale=en&layout=compact)
+
+### GitHub Streak
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=onurbbr&theme=dark&hide_border=true&background=22272E">
+</p>
+
+### GitHub Activity
+<p align="center">
+
+  [![GitHub activity](https://activity-graph.herokuapp.com/graph?username=onurbbr&theme=gruvbox)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</p>
