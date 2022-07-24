@@ -21,7 +21,8 @@
 <a href="https://codesandbox.io/u/onurbbr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="onurbbr" height="30" width="40" /></a>
 <a href="https://fb.com/onurbuber6778" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="onurbuber6778" height="30" width="40" /></a>
 <a href="https://instagram.com/onurbuber" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="onurbuber" height="30" width="40" /></a>
-<a href="https://t.me/onurbbr" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="onurbbr" height="30" width="40" /></a>
+<a href="https://t.me/onurbbr" target="blank"><img align="center" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/telegram.svg" alt="onurbbr" height="30" width="40" /></a>
+<a href="https://reddit.com/user/moonaru" target="blank"><img align="center" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/reddit-icon.svg" alt="moonaru" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
