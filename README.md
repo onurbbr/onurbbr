@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **React, React Native, MongoDB**
 
-- 👨‍💻 All of my projects are available at [https://github.com/onurbbr?tab=repositories](https://github.com/onurbbr?tab=repositories)
+- 👨‍💻 All of my projects are available at [my Repositories](https://github.com/onurbbr?tab=repositories)
 
 - 📫 How to reach me **onurbuber@engineer.com**
 
