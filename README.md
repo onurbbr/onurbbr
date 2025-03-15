@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Onur</h1>
-<h3 align="left">I'm Student and Developer from Karabuk/Turkiye</h3>
+<h3 align="left">I'm Computer Engineer from Karabuk/Turkiye</h3>
 
 <h3 align="left">Profile views:</h3>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=onurbbr&label=Profile%20views&theme=radical&style=flat" alt="onurbbr"/></p>
